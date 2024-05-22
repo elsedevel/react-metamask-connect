@@ -1,0 +1,18 @@
+{
+    "NETWORK": {
+        "NAME": "Polygon Mainnet",
+        "SYMBOL": "MATIC",
+        "ID": 137,
+        "CHAIN_NAME": "Polygon Mainnet",
+        "CHAIN_ID": "0x89",
+        "RPC_URLS": [
+            "https://polygon-rpc.com/"
+        ],
+        "BLOCK_EXPLORER_URLS": [
+            "https://polygonscan.com/"
+        ],
+        "DECIMALS": 18
+    },
+    "PROVIDER": "https://polygon-mainnet.g.alchemy.com/v2/8Yrb_dIO1XwxKwxCJllYK7f3-zsgisOJ",
+    "GAS_LIMIT": 385000000
+}
