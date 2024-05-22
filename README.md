@@ -4,11 +4,11 @@ This project is using the WalletConnect open-source protocol to connect your mob
 
 ## Project Screen Shots
 
-[Main Page](/src/assets/main_page.png)
+[Main Page](Documents/react-wallet-connect/assets/main_page.png)
 
-[WalletConnect Modal](/src/assets/wallet_connect_modal.png)
+[WalletConnect Modal](Documents/react-wallet-connect/assets/wallet_connect_modal.png)
 
-[Metamask Connect Example](/src/assets/metamask_connect_example.png)
+[Metamask Connect Example](Documents/react-wallet-connect/assets/metamask_connect_example.png)
 
 ## Installation and Setup Instructions
 
